@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "generator-jhipster-docker": "2.5.0",
+    "generator-jhipster-bootstrap-material-design": "3.5.1",
+    "generator-jhipster-elasticsearch-reindexer": "1.2.1",
+    "generator-jhipster-primeng-charts": "1.0.0",
+    "generator-jhipster-primeng": "2.0.45",
+    "generator-jhipster-primeng-entity": "1.0.2",
+    "generator-jhipster": "4.6.1"
+  }
+}
